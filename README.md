@@ -22,7 +22,7 @@ The official repository of the central economy files of the ROS custom map for D
 Mod in Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2390417799
 
 A brief description of some important files:
-- db/events.xml - settings for events on the server such as spawn of animals, fruits, helicrashes, police cars, etc .;
+- db/events.xml - settings for events on the server such as spawn of animals, fruits, helicrashes, police cars, etc.;
 - db/types.xml - settings for spawning loot on the server;
 - cfgEffectArea.json - settings for contaminated areas;
 - cfgEventSpawns.xml - settings for event spawn positions, see events.xml. Also here is the setting for the spawn of cars;
