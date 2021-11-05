@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2164195328">
+        <zone name="HuntingGround" smin="0" smax="1" dmin="0" dmax="0" x="1370" z="9520" r="470"/>
+        <zone name="HuntingGround" smin="0" smax="1" dmin="0" dmax="0" x="5097.5" z="10567.5" r="470"/>
+        <zone name="HuntingGround" smin="0" smax="1" dmin="0" dmax="1" x="2200" z="11180" r="250"/>
+    </territory>
+</territory-type>
