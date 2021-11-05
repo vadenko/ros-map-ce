@@ -17,6 +17,8 @@
 Обратите внимание, это ранняя версия центральной экономики для карты ROS, постепенно будет подрабатываться.
 Если возникли какие-либо вопросы, задать их можно на нашем Discord сервере: https://discord.st/ros/
 
+🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷
+
 [ENG]
 The official repository of the central economy files of the ROS custom map for DayZ Standalone.
 Mod in Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2390417799
