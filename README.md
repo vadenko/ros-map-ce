@@ -3,6 +3,8 @@
 Официальный репозиторий файлов центральной экономики пользовательской карты ROS для DayZ Standalone.
 Ссылка на модификицию в Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2390417799
 
+Папка с миссией должна называться "empty.Ros" или "offline.Ros", на ваше усмотрение.
+
 Краткое описание некоторых важных файлов:
 - db/events.xml - настройки событий на сервере таких как спавн животных, фруктов, хеликрашей, полицейских авто и пр.;
 - db/types.xml - настройки спавна лута на сервере;
@@ -17,9 +19,13 @@
 Обратите внимание, это ранняя версия центральной экономики для карты ROS, постепенно будет подрабатываться.
 Если возникли какие-либо вопросы, задать их можно на нашем Discord сервере: https://discord.st/ros/
 
+🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷🔷
+
 [ENG]
 The official repository of the central economy files of the ROS custom map for DayZ Standalone.
 Mod in Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2390417799
+
+The folder with the mission should be called "empty.Ros" or "offline.Ros", at your discretion.
 
 A brief description of some important files:
 - db/events.xml - settings for events on the server such as spawn of animals, fruits, helicrashes, police cars, etc.;
