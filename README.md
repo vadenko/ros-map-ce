@@ -25,7 +25,7 @@
 The official repository of the central economy files of the ROS custom map for DayZ Standalone.
 Mod in Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2390417799
 
-The folder with the mission should be called "empty.Ros" or "offline.Ros", at your discretion.
+The folder with the mission should be called "empty.Ros" or "offline.Ros", as you wish.
 
 A brief description of some important files:
 - db/events.xml - settings for events on the server such as spawn of animals, fruits, helicrashes, police cars, etc.;
