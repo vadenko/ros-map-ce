@@ -19,5 +19,11 @@
         <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="3372.86" z="8837.14" r="80"/>
         <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="3714.29" z="8761.43" r="80"/>
         <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="2364.29" z="9661.43" r="80"/>
+        <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="6890" z="11150" r="120"/>
+        <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="5580" z="9825" r="70"/>
+        <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="4450" z="11255" r="70"/>
+        <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="4705" z="10850" r="70"/>
+        <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="4385" z="11975" r="70"/>
+        <zone name="Zone_hen" smin="1" smax="1" dmin="0" dmax="0" x="7060" z="15030" r="70"/>
     </territory>
 </territory-type>

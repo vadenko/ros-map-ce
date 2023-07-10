@@ -28,6 +28,9 @@
 		<pos x="1782.6" z="7695.58" a="90" />
 		<pos x="3551.32" z="8834.63" a="135" />
 		<pos x="2722.36" z="4132.21" a="1" />
+        <!-- RUSSKIY -->
+		<pos x="5030.92" z="10128.5" a="90" />
+		<pos x="6981.06" z="11188.2" a="1" />
     </event>
 	<event name="ItemPlanks">
 	    <!-- REINEKE -->
@@ -41,12 +44,21 @@
 		<pos x="2955.3" z="7969.09" a="90" />
 		<pos x="1700.12" z="7913.43" a="80" />
 		<pos x="3830.42" z="7191.74" a="-1" />
+		<!-- RUSSKIY -->
+		<pos x="4383.22" z="11968.6" a="90" />
+		<pos x="5363.25" z="10738.5" a="90" />
+		<pos x="5399.28" z="10775.1" a="90" />
+		<pos x="5399.75" z="10783.2" a="90" />
+		<pos x="7267.63" z="10519.1" a="90" />
+		<pos x="7282.92" z="10400.8" a="90" />
     </event>
-<!-- MASHINY NA OSTROVE POPOV -->
+<!-- MASHINY NA OSTROVE POPOV I RUSSKIY -->
 	<event name="VehicleCivilianSedan">
 		<pos x="1859.25" z="7473.81" a="90" />
 		<pos x="3669.18" z="8784.3" a="180" />
 		<pos x="2673.12" z="6260.67" a="45" />
+	<!-- RUSSKIY -->
+
 	</event>
 <!-- SARKI NET 
 	<event name="VehicleSedan02">
@@ -62,11 +74,17 @@
 		<pos x="3370.69" z="6830.47" a="45" />
 		<pos x="1914.4" z="6111.6" a="45" />
 		<pos x="1264.15" z="6463.71" a="90" />
+		<!-- RUSSKIY -->
+		<pos x="4367.04" z="11968.8" a="90" />
+		<pos x="6435.17" z="11822" a="90" />
     </event>
     <event name="VehicleTruck01">
 		<pos x="2982.43" z="7951.45" a="180" />
 		<pos x="1732.03" z="7912.91" a="180" />
 		<pos x="3819.45" z="7163.61" a="135" />
+		<!-- RUSSKIY -->
+		<pos x="4661.19" z="10914.4" a="90" />
+		<pos x="5380.12" z="10785.1" a="180" />
 	</event>
 
     <event name="VehicleTransitBus" />

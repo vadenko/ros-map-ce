@@ -7,5 +7,6 @@
         <zone name="Graze" smin="0" smax="2" dmin="1" dmax="5" x="1676.5" z="9538" r="330"/>
         <zone name="Graze" smin="0" smax="2" dmin="1" dmax="3" x="2596.67" z="4436.67" r="220"/>
         <zone name="Water" smin="0" smax="1" dmin="1" dmax="2" x="1850" z="3126.67" r="120"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="5265.71" z="10651.4" r="370"/>
     </territory>
 </territory-type>
