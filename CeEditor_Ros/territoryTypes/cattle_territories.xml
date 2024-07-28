@@ -7,5 +7,8 @@
         <zone name="Graze" smin="1" smax="1" dmin="1" dmax="2" x="2891.43" z="6662.86" r="150"/>
         <zone name="Graze" smin="0" smax="1" dmin="0" dmax="2" x="3241.56" z="8940.91" r="110"/>
         <zone name="Graze" smin="1" smax="1" dmin="1" dmax="2" x="7198.93" z="14945.7" r="150"/>
+        <zone name="Graze" smin="1" smax="1" dmin="1" dmax="2" x="7995" z="10455" r="150"/>
+        <zone name="Graze" smin="1" smax="1" dmin="1" dmax="2" x="9485" z="12445" r="150"/>
+        <zone name="Graze" smin="1" smax="1" dmin="1" dmax="2" x="9295" z="17450" r="110"/>
     </territory>
 </territory-type>

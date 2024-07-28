@@ -8,5 +8,12 @@
         <zone name="Graze" smin="0" smax="2" dmin="1" dmax="3" x="2596.67" z="4436.67" r="220"/>
         <zone name="Water" smin="0" smax="1" dmin="1" dmax="2" x="1850" z="3126.67" r="120"/>
         <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="5265.71" z="10651.4" r="370"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="9135" z="11125" r="370"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="9955" z="15495" r="370"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="11535" z="14570" r="370"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="11390" z="16830" r="370"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="12435" z="15500" r="370"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="10010" z="16440" r="370"/>
+        <zone name="Graze" smin="0" smax="2" dmin="1" dmax="2" x="9535" z="16865" r="370"/>
     </territory>
 </territory-type>

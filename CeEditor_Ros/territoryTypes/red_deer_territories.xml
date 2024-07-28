@@ -11,5 +11,15 @@
         <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="9460" z="10666.7" r="520"/>
         <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="9406.67" z="12526.7" r="520"/>
         <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="9120" z="15160" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="10290" z="9255" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="10615" z="16700" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="9455" z="16060" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="10595" z="14330" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="12050" z="16160" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="12430" z="14725" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="11245" z="13390" r="520"/>
+        <zone name="Graze" smin="0" smax="1" dmin="1" dmax="3" x="12110" z="12000" r="520"/>
+        <zone name="Water" smin="0" smax="1" dmin="1" dmax="3" x="10755" z="10490" r="520"/>
+        <zone name="Water" smin="0" smax="1" dmin="1" dmax="3" x="10135" z="12925" r="320"/>
     </territory>
 </territory-type>
